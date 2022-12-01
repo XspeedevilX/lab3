@@ -9,5 +9,6 @@ int main(void)
 	c = a + b;
 	e = a * b
 	g = a / b
+	cout<<"Результат разности a и b: "<<d<<endl;
 	return 0;
 }
