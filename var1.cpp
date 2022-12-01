@@ -10,5 +10,6 @@ int main(void)
 	e = a * b
 	g = a / b
 	cout<<"Результат разности a и b: "<<d<<endl;
+	cout<<"Результат сложения a и b: "<<c<<endl;
 	return 0;
 }
